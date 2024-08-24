@@ -1,0 +1,319 @@
+[
+  {
+    "ticket_id": "3a16cf52-26a0-47d6-8c91-9810039676ee",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a hand holding a small metal bowl containing yellowish-brown seeds soaked in water. The background includes a bed with a colorful bedsheet and a tiled wall.)"
+      },
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a small metal bowl containing a variety of dried fruits and nuts. Visible items include a dried fig, almonds, walnuts, and raisins. The bowl is placed on a dark fabric surface, possibly someone's lap.) with the following caption Dry fruits."
+      },
+      {
+        "role": "user",
+        "content": "Replied to the following message: \"Sent an image (The image shows a hand holding a small metal bowl containing yellowish-brown seeds soaked in water. The background includes a bed with a colorful bedsheet and a tiled wall.)\", with: \"Methi dana done\""
+      }
+    ],
+    "generated_response": "Here's my response:\n\n\"Arre wahin! Methi dana toh ho gaya hai, ab dry fruits ki baat karein. Maine dekha hai tumne sent karke image diya hai jismein dry fruits aur nuts hain, lekin kuchh saamanya cheez bhi hain jo zyada nahin honi chahiye. Tumhein har din almonds aur walnuts ka limit 1/2 cup se ziyaadah nahin hona chahiye. Aur yeh dried figs ke bare mein, tumhein lagta hai ki unka limit 1/4 cup se ziyaadah nahin hona chahiye.\n\nDaily Reminder: Neki kiye jaane waale dainik habiton ko follow karo aur apne sharir ki swasthya ki zaroorat ke anusaar thoda sa exercise karo. Issey tumhari tanav kam hoga aur aapko thoda sa mehsus ho payega ki aapki health acchi hai.\"\n\n(Translation: Ah, everything is fine! The methi seeds are done, now let's talk about dry fruits. I've seen the image you sent with dry fruits and nuts, but there are some common things that should not be excessive. You should not have more than 1/2 cup of almonds and walnuts daily. And regarding dried figs, it seems like their limit is also 1/4 cup.\n\nDaily Reminder: Please follow your daily habits to do good for yourself and exercise according to your body's needs. This will help you feel less stressed and will show that your health is fine.)",
+    "ideal_response": "Great job for having methi water, continue having it daily, it will help boost your metabolism.\nVarsha, but i also noticed that you are having figs and raisins but they are not presrcibed in the diet plan, can i know why you have added them ?"
+  },
+  {
+    "ticket_id": "3a078f8d-b2b9-41af-a592-5f1c6cdd0484",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a bowl of a yellow-orange colored dish, likely a type of porridge or savory pudding, with visible black mustard seeds and small pieces of vegetables. A spoon is placed inside the bowl, suggesting it is ready to be eaten. The bowl is placed on a light-colored surface.) with the following caption One bowl vegetable upma."
+      }
+    ],
+    "generated_response": "Bhai, one bowl vegetable upma toh bahut hi accha hai! (Brother, one bowl vegetable upma is very good!) I see that you've added vegetables to your upma, which is great for getting those essential vitamins and fiber. However, I notice that there are no beans or lentils in sight. Could you please add some moong dal or kidney beans to your upma to make it more protein-rich? That way, it'll be a complete meal.\n\nDaily Reminder: Don't forget to drink at least 8-10 glasses of water today and have small intervals of physical activity, like walking for 15 minutes every hour. Try to do some stretching exercises while watching TV tonight!",
+    "ideal_response": "Varsha, i noticed you are having upma instead of poha as prescribed in your diet plan, can you let me know why ?"
+  },
+  {
+    "ticket_id": "8e342394-8e9f-42d5-9905-52d570fa9c2f",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a close-up of a container with a mixture of food items. It appears to contain chunks of potatoes, oats, and possibly some nuts or seeds, all mixed in a creamy liquid. A spoon is partially visible, indicating that the food is ready to be eaten. The container is placed on a surface with a purple fabric underneath.) with the following caption Breakfast."
+      },
+      {
+        "role": "user",
+        "content": "And yesterday i skipped on dinner \nPhoto click krna bhul gyi thi but i had barley daliya"
+      },
+      {
+        "role": "user",
+        "content": "Today\u2019s weight after clearning stomach 73.4 kg"
+      }
+    ],
+    "generated_response": "Arre yeh to hi breakfast tha jo tumne bheji thi? Potato, oats aur kuch seeds ya nuts ka mixture creamy liquid mein milakar bana hua tha. Yeh toh bahut achha hai! Lekin, kehna hai padta hai ki issme potato aur oats thi, par oats ki maatra thodi kam thi.\n\nTumne kal dinner skip kar diya tha, aur uske bajay barley daliya khaya tha. Thoda behtar hoga agar tum oats ya brown rice jaisi cheez khate ho.\n\nAaj ke weight 73.4 kg hain, toh sab thik hai. Ab aapko phir se breakfast ki zarurat hai.\n\nDaily Reminder: Aaj apni pighalne wali chaa peene ka dhyaan rakhein aur iske saath ek healthy salad banakar khayein!",
+    "ideal_response": "Shobhita, I noticed aap oats le rhe ho, which is a healthy choice, but maine aapki diet mein aloo parantha + curd likha tha, aapne vo nhi khaya ?"
+  },
+  {
+    "ticket_id": "4937b689-8013-4316-80ec-e66447c387c3",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a cup filled with milk. The cup has a design that resembles the texture of a tree trunk with visible rings and cracks. The cup is placed on a table with a colorful, possibly floral, tablecloth. In the background, there is a wooden cabinet with a pair of shoes on one of its shelves.) with the following caption 1 cup of milk without sugar only add one cardamom."
+      }
+    ],
+    "generated_response": "**Response:**\n\nBeta, 1 cup milk without sugar aur ek cardamom kaafi hai? (Is 1 cup of milk without sugar and one cardamom enough?) It looks like you've added a nice touch with the cardamom, but have you thought about adding some fruits or nuts to make it more nutritious?\n\n**Compliance Check:**\n\nI couldn't find any ideal meal for this time slot in our previous chats. However, if I recall correctly, we usually recommend a mix of complex carbohydrates and protein sources at this time.\n\n**Missing Items:** None\n\n**Extra Item Consumed:** Cardamom is a good addition, but let's see about adding some fruits or nuts to make it more nutritious!\n\n**Daily Reminder:**\n\nRemember, beta, to drink at least 8-10 glasses of water today! And don't forget to get some fresh air and take a short walk in the evening. It'll do you a lot of good!",
+    "ideal_response": "Great job on following your diet plan, keep it up!"
+  },
+  {
+    "ticket_id": "144d6db8-d7ad-482b-9de3-540bf39127f5",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a white mug filled with a red beverage, placed on a white plate with a blue decorative border. On the plate, there are several almonds and pieces of walnuts. The background appears to be a dark, textured surface.) with the following caption I have done \u2714\ufe0f 7:00am meal \ud83d\ude0b \ud83d\ude0d \ud83d\udc4c."
+      },
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a bowl of cereal with milk placed on a decorative plate. A spoon is partially visible in the bowl, and the setup is on a wooden surface. The cereal appears to be a type of flake cereal.)"
+      }
+    ],
+    "generated_response": "Bade Bhai, I see you've had your 7:00am meal! The image shows a red beverage with almonds and walnuts on the plate. Good job on that!\n\nHowever, I don't see any fruits or veggies in the picture. Remember, we discussed including those in your meals to get essential vitamins and fiber. Try adding some citrus fruits like oranges or apples to your breakfast tomorrow.\n\nAs for the snack later, you sent an image of cereal with milk. While that's a good start, make sure to add some nuts or seeds on top to increase the protein content. Also, opt for whole grain cereals instead of refined ones.\n\nDaily Reminder: Don't forget to stay hydrated throughout the day! Try drinking at least 8 glasses of water today.",
+    "ideal_response": "Great job sticking to your meal plan! Keep it up!"
+  },
+  {
+    "ticket_id": "8a280b8a-26ab-40f5-bb1d-22b1aa4e47f3",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a stainless steel plate containing a serving of cooked food, which appears to be a grain-based dish with vegetables, possibly upma or khichdi. There is also a portion of green chutney or sauce on the side, and a spoon is placed on the plate.) with the following caption Beark fast."
+      }
+    ],
+    "generated_response": "Arre bhai, I see you've sent a pic of your breakfast! Looks like you've had a serving of upma or khichdi with some veggies. Green chutney is a nice touch too! As for the caption \"Beark fast\", I'm guessing that's just an innocent mistake? \n\nLet me check... Ah, yes! I see you're supposed to have eggs and some whole wheat bread on the side. Missing those two items from your breakfast, kya pata? But great job on including veggies and chutney!\n\nDaily reminder: Don't forget to stay hydrated today, parched na? Why not try having a glass of lukewarm water with a squeeze of lemon as soon as you wake up?",
+    "ideal_response": "Great job aarti, why have you not included milk ?"
+  },
+  {
+    "ticket_id": "15d414f1-3afc-4b4b-adc6-fafc3eaf3f8f",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a close-up of a bowl containing pomegranate seeds and almond slices. The bowl is metallic, and there is a spoon inside it. The background appears to be a tablecloth with a partial view of a colorful design.) with the following caption Pomegranate with 1 spoon seasme seeds and 1 spoon  sunflower seeds."
+      }
+    ],
+    "generated_response": "Maine dekha hai tumne pomegranate ke seeds aur almond slices ka khayaal kiya hai. Ye sab kuchh thoda accha hai, lekin humein sochna chahiye ki tuesday ko humein 2 spoon almonds aur 1 banana lena chahiye thi.\n\nKabhi-kabhi humne seed bhi nahi lena hota hai, toh aaj humein pomegranate ke seeds nahin khane chahiye. Sunflower seeds to thoda acchi baat hain, lekin abhi toh humein unka dhyan nahin dena chahiye.\n\nTumhari dawai ke liye yeh sab kuchh bahut zaroori hai, aur main tumhe shuru se hi bina seed ki diet pe aane ke liye request karta hoon. \n\nDaily reminder: Tumne kal night 7 ghante ki sardiyan ki thi. Agar aaj bhi aapko thaknaa ya chhoti sardiyaan aa rahi hain, toh humein abhi soona hai aur kal shuru se hi healthy eating pe focus karna chahiye.",
+    "ideal_response": "Great job, keep it up! Sesame and sunflower seeds are great source of omega 3 fatty acid which help regulate your period cycle."
+  },
+  {
+    "ticket_id": "158e30e7-eb1b-4986-8515-05180028d296",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "1 Nariyal Panni"
+      }
+    ],
+    "generated_response": "Arre, 1 Nariyal Panni toh bahut achha hai! But yeh puchh rahe hain ki kabhi-kahi cheezin hi phal deti hai na? Aapke diet chart ke hisab se, is samay vitamin A aur healthy fats ke liye coconut water acha vikalp hai.\n\nAaj aapne milkshak ki jagah nariyal pani peya hai, jo thoda sa bada matter hai. Ye sab kuch baat kar rahe hain, lekin haal hi mein aapke chat history se dekha jaata hai ki aapne weight control ke liye ek diet plan follow kar raha hain.\n\nSo, agar aap chaahenge toh kalpana pani ya coconut water kaam karti hai. Aap apni calorie count aur nutrient intake ko check karenge to aapko lagta hai ki yeh accha haal karta hai.\n\nDaily Reminder: \nAbhi-ke samay ek 30-minute walk kijiye! Ye aapki health ke liye bahut faydemand ho sakta hai.",
+    "ideal_response": "Good job, coconut water is great source of potassium. Why have you not included seeds with this ?"
+  },
+  {
+    "ticket_id": "1bc93246-b66f-409f-bbc1-dfec4cd2ae8d",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a plate with a few pieces of food, possibly idli, which is a type of South Indian steamed rice cake. There is also a small amount of white sauce or chutney on the plate. The plate has a simple design with a green dot and black lines. The background includes a colorful, floral-patterned tablecloth.) with the following caption Idly with chutney."
+      }
+    ],
+    "generated_response": "Arre beta, Idli with chutney ki picture di hai! Darr kya hai? Ab hum dekhte hain ismein kitne calories aur nutrients hain.\n\nIdli ek achha breakfast option hai lekin agar abhi tak 8 baje ki diet chart par aapke paas idli hi nahi tha, to yeh sahi nahin hai. Aapka diet plan mein khane ke liye doodh aur fruits shamil hone chahiye the.\n\nChutney ko lekar, woh ek achha side dish hai lekin agar aapka weight kam karne ka plan hai, toh usmein se tel aur masale kam hokar banai ja sakti hai.\n\nBeta, ab tumhara breakfast pura nahin ho gaya hai. Doodh aur fruits ki zaroorat hai. Tumhara doctor kya khane padta hai use batana.\n\nDaily Reminder: Abhi se haathon ko rozana 15 minute tak exercise karne ka yogdaan karo!",
+    "ideal_response": "Rupa, I noticed that you were prescribed mixed veg vermicili, can you let know why are you having idli ?"
+  },
+  {
+    "ticket_id": "e2ef7155-002b-4bdf-a8ef-270a8c59b025",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a meal served on a metal plate. The meal includes:\n\n1. A stuffed paratha (Indian flatbread).\n2. A serving of green chutney.\n3. A bowl with three boiled eggs in a yellowish liquid, likely a curry.\n4. A bowl of sliced cucumbers.\n5. A glass of buttermilk or yogurt with herbs sprinkled on top.\n\nThe plate is placed on a patterned tablecloth.) with the following caption 2 Oats wheat roti add veggies.. and coriander chutni nd little onion sbji nd I added mint and cumin in  buttermilk."
+      },
+      {
+        "role": "user",
+        "content": "Wd salad"
+      }
+    ],
+    "generated_response": "Kya hai? The meal you sent me looks good, but I think you missed out on some essential nutrients. Where's the veggies and fruits that we discussed earlier?\n\nYou had oats wheat roti and veggies, but it seems like there are no greens in sight! Also, I see a lot of spices, which is good, but don't forget to add some healthy fats like nuts or seeds.\n\nAnd what's with the \"Wd salad\" query? Can you tell me more about that?\n\nRemember, today's diet chart has a special emphasis on hydration. Don't forget to drink plenty of water throughout the day!\n\nDaily reminder: Try to include a glass of freshly squeezed orange juice in your meal for an extra dose of vitamin C!",
+    "ideal_response": "Great job for having oats roti, salad and curd, but i noticed you are not having lauki chana dal as prescribed in the diet plan, can you let me know the reason ?"
+  },
+  {
+    "ticket_id": "ca331178-80da-48f8-a3a5-d483fa0391ea",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a bowl with a floral pattern containing pieces of orange fruit, likely papaya, sprinkled with sesame seeds and sunflower seeds. There is a spoon in the bowl, suggesting the dish is ready to be eaten. The bowl is placed on a grey countertop.) with the following caption I have done \u2714\ufe0f meal 11:30am."
+      },
+      {
+        "role": "user",
+        "content": "Sent an image (This image is a detailed meal plan for Day 4, Friday, dated 14-06-2024. It outlines specific foods and beverages to be consumed at various times throughout the day, along with their quantities and some preparation instructions. The schedule includes:\n\n- **Early Morning (08:00 AM):** Cinnamon water, soaked almonds, and soaked walnuts.\n- **Breakfast (10:00 AM):** Apple cinnamon overnight oats.\n- **Mid Meal (11:00 AM):** Pomegranates and coconut water.\n- **Lunch (02:00 PM):** Bajra roti, plain toor dal, curd, and tomato cucumber salad.\n- **Evening (05:00 PM):** Spearmint tea, roasted kala chana, flax seeds, and pumpkin seeds.\n- **Dinner (08:00 PM):** Boiled sprouts with cucumber and tomato.\n- **Post Dinner (10:00 PM):** Jeera water.\n\nThe plan also includes some nutritional tips and preparation notes for each meal.)"
+      },
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a packet of milk from Mother Dairy placed on a countertop. In front of the milk packet, there is a bowl containing a mixture of seeds and nuts, possibly in yogurt or milk. The seeds and nuts include pumpkin seeds, flax seeds, and other assorted seeds.) with the following caption I have done before 30 minutes  drink  \ud83c\udf78 Buttermilk."
+      }
+    ],
+    "generated_response": "Kya hai beta? I see you've had buttermilk with flax seeds and pumpkin seeds. That's a good start, but have you also had some nuts along with it? Your diet chart says to include soaked almonds and walnuts in the early morning. Maybe try adding those tomorrow?\n\nBy the way, did you remember to drink jeera water last night as per your plan? It's good for digestion.\n\nDaily reminder: Drink plenty of water throughout the day, and don't forget to stretch for 10 minutes after each meal to keep yourself active!",
+    "ideal_response": "Great job! I just checked, you are having sunflower and sesame seeds, but i have mentioned pumpkin and flax seeds in your diet ."
+  },
+  {
+    "ticket_id": "ffa2b043-7c9f-43e3-b434-7f874f01b916",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a plate with a floral design containing several small, rectangular pieces of white cheese, likely paneer. The plate is placed on a surface with a patterned cloth.)"
+      },
+      {
+        "role": "user",
+        "content": "Replied to the following message: \"Sent an image (The image shows a plate with a floral design containing several small, rectangular pieces of white cheese, likely paneer. The plate is placed on a surface with a patterned cloth.)\", with: \"Only Salad \ud83e\udd57 \ud83d\ude0b\""
+      }
+    ],
+    "generated_response": "Dude, that's only salad? You know what you're supposed to have with it, right? Some brown rice or whole wheat roti. And where's the veggies? Salad toh hai par salad kaam nahin hoga agar vegetables nahi honge! Add some cucumber, tomato, carrot - kya pata, any other seasonal veggies that are available.\n\nAnd by the way, paneer is fine but it's not like you can have as much as you want. A little bit of paneer in moderation, okay? \n\nDaily Reminder: Don't forget to drink at least 8-10 glasses of water today! And try taking a short walk after lunch to keep things moving.",
+    "ideal_response": "Charleen, why are you having only paneer ?"
+  },
+  {
+    "ticket_id": "206b8b1e-25f6-48fb-9271-524f1752f27c",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a meal consisting of a plate with sliced cucumbers and tomato wedges, and a metal tray with flatbreads (possibly chapati or roti), a bowl of curry, and a bowl of yogurt or raita. The setting appears to be on a table with a patterned tablecloth.) with the following caption Lunch."
+      }
+    ],
+    "generated_response": "What's up? I saw the lunch you sent. It looks good! You've got cucumbers, tomatoes, flatbreads, curry, and raita on the plate. That's all correct for lunch, right?\n\nI noticed you're missing some veggies - we talked about having more leafy greens and bell peppers in your meals. Can you add those tomorrow? Also, try to keep the portion sizes in check, especially with the flatbreads.\n\nBy the way, how was your morning walk today? Did you get a chance to stretch?\n\nDaily reminder: Drink at least 8 glasses of water today! And don't forget to do some light stretching exercises during your breaks.",
+    "ideal_response": "Aarti, aap konsi sabzi kha rhe ho ?"
+  },
+  {
+    "ticket_id": "cb61d429-1350-41e0-b312-e83a01be382b",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Yes mam I added later"
+      }
+    ],
+    "generated_response": "Arre beta, I heard you added food later? Bilkul, let me check. \n\nIt seems you added food, but I couldn't find any record of what you had for that meal in the diet chart. Can you please tell me what exactly you ate? Were there any special instructions or requirements for that meal?\n\nAlso, did you remember to have your medication on time? We discussed this earlier.\n\nDaily reminder: Beta, don't forget to drink at least 8 glasses of water today!",
+    "ideal_response": "Try to share picture of the entire meal, so that we can review accordingly. Keep it up!"
+  },
+  {
+    "ticket_id": "699bb2fa-0192-47df-ae49-dafd50c42238",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a metal bowl containing a mix of roasted peanuts and puffed lotus seeds (makhana). The bowl is placed on a beige fabric with a pink embroidered design.)"
+      },
+      {
+        "role": "user",
+        "content": "1 glass milk @ 11:30"
+      },
+      {
+        "role": "user",
+        "content": "Replied to the following message: \"Sent an image (The image shows a metal bowl containing a mix of roasted peanuts and puffed lotus seeds (makhana). The bowl is placed on a beige fabric with a pink embroidered design.)\", with: \"@ 2:30\""
+      }
+    ],
+    "generated_response": "Kya bhai, sent an image of roasted peanuts aur makhana! Ye to theek hai. Ab milk pehli baar suna hai, 1 glass @ 11:30.\n\nCompliance to the diet chart seems fine for now. Makhana aur peanuts is a good snack option for energy boost. However, don't forget to eat your main meal at 2:30 PM. You might want to add some veggies or fruits along with it for a balanced meal.\n\nMain point hai, bhai, don't skip meals! Eat regularly and keep yourself hydrated throughout the day.\n\nDaily reminder: Drink at least 8 glasses of water today and take a short walk outside in the evening to get some fresh air.",
+    "ideal_response": "Great choice, makhana and peanuts are rich in calcium and protien."
+  },
+  {
+    "ticket_id": "53a39079-04ce-440f-8fe6-4a6d1e6a570d",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a plate of food that includes a bowl of yellow lentil soup (dal) with a spoon in it, a piece of flatbread (roti), some cooked vegetables, and a slice of raw onion. The plate is placed on a table with a patterned tablecloth. A person's foot wearing a sandal is visible at the bottom of the image.) with the following caption Moong dal , little cabbage, jowar roti for lunch."
+      }
+    ],
+    "generated_response": "Dude, I see you had Moong dal, little cabbage, jowar roti for lunch. That's a great combo! You're including all the essential nutrients like protein from lentils, fiber and calcium from cabbage, and carbs from roti. Keep it up!\n\nOne thing to note is that there are no visible green veggies on your plate. Let's try to add some spinach or palak saag with your dal next time.\n\nAlso, did you remember to drink enough water today? We want to keep those fluids in check, yaar!\n\nDaily Reminder: Don't forget to take a 30-minute walk after dinner to help with digestion and get that blood flowing!",
+    "ideal_response": "Your meal looks good, you can add curd and more salad in your meal to make it complete."
+  },
+  {
+    "ticket_id": "caf28ae3-7327-4f61-ae15-2c18597d8e3e",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a small metal bowl filled with puffed snacks, likely makhana (fox nuts), and a ceramic cup with a wooden texture design containing a yellowish liquid, possibly tea. The items are placed on a fabric surface with a striped pattern visible in the background.) with the following caption Makhana nd spearmint tea."
+      }
+    ],
+    "generated_response": "Kya hai bhai? I see makhana aur spearmint tea! Ye toh accha hai, par kuch aur item hote hain jo aapke shareer ke liye zaroori hain. Aapko phal, sabjiyan aur roti ka khayal rakhna chahiye. Abhi tumne toh soya hua puffed snack aur chai pehle hi khaya hai. \n\nPehle hi humne aapke liye ek diet plan banaya tha jo aapki zarurat ko pura karta hai, par aaj yah dish kaafi thoda different lag raha hai.\n\nHumari suggestion yah hai ki aap apni chai se pehle ek chhoti si roti ya phal ka tukda khayein. Issey aapke shareer ko energy milegi aur aapki digestive system bhi theek rahegi.\n\nDaily Reminder: Aaj ke din aapko 8-10 glass paani pilana hoga.",
+    "ideal_response": "Nice choice! Makhana and spearmint tea are great for your diet. Keep it up!"
+  },
+  {
+    "ticket_id": "9f991db6-ed10-4613-b597-040ae4cf6d92",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "i had bhindi and oats roti 2 in lunch a"
+      },
+      {
+        "role": "user",
+        "content": "and right now i had 2 apple pealed"
+      },
+      {
+        "role": "user",
+        "content": "i forgot to click pictures due to office hours"
+      }
+    ],
+    "generated_response": "Arre yeh toh theek hai! You had bhindi aur oats roti, jo theek hai. But I think you forgot to mention if it was with any sabzi or salad? And did you have any ghee or oil in your roti?\n\nAnd abhi kal humne 2 apple peeled kiye hain, jo bahut acchi cheez hai! But remember, 2 peels are still not the same as eating the whole fruit. You should try to eat more of the fruit, na?\n\nOkay, now about those pictures you mentioned, yaar. I know it's hard to keep track, but next time, please try to click a pic of your meal so we can see what you're eating.\n\nDaily reminder: Don't forget to drink at least 8-10 glasses of water today! You should also try to take a short walk during your lunch break. It'll be good for your body and mind.",
+    "ideal_response": "Good shobhita, I hope you had curd and salad along with roti and bhindi. Also, I would suggest you to have 1 apple instead of 2 and after how much gap did you have the apples ?"
+  },
+  {
+    "ticket_id": "d9cc7206-f263-4e5f-a095-f3dbb12d3fcc",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a glass container filled with a colorful vegetable and tofu stir-fry. The dish includes red, green, and yellow bell peppers, tomatoes, and tofu cubes, all mixed together. The container is placed on a wooden surface, and part of a person's arm, a bottle of hand sanitizer, and a laptop are visible in the background.) with the following caption Dinner."
+      }
+    ],
+    "generated_response": "Bhai, maine dekha hai woh dinner ki picture, aur bahut achhi lag rahi hai! Red, green, aur yellow bell peppers, tomatoes, aur tofu cubes sab mile hue hain. Ismein koi extra cheez nahin, toh yeh thoda behtar hai!\n\nLekin, maine dekha hai ki tomatoes theek se chopped nahin huye hain. Aur, tofu cubes ke size kamzor lagte hain. Humein iske liye ek beet bahut zaroori hai! \n\nIsmein koi protein powder ya healthy oil bhi nahin dala gaya hai. Agar tumne socha hai ki tumhein protein ki zarurat hai, toh main khud se ek glass full paani mein 1 scoop protein powder daal ke piya hoon!\n\nDaily Reminder: Tumhari diet chart mein likha hai ki tumhari din bhar pani ka intake kamzor nahin hona chahiye. Isliye, tumhara daily reminder hai ki tum apne glass paani ko pura karke piyega aur 7-8 glasses pani kitna lena chahiye iski jagah nahi!\n\nHealthy Reminder: Tumhari diet chart mein likha hai ki tum 30 minutes ke liye rozana treadmill par walking karo. Isliye, tumhara healthy reminder hai ki tum abhi tak toh jaante hi hain ki tumne kabhi treadmill se jogging kiya hai!",
+    "ideal_response": "Shobhita, as mentioned on your diet chart, your dinner was planned at 8pm, any reasons why you are taking it so early ?"
+  },
+  {
+    "ticket_id": "7bcaa083-5f9e-4142-9976-9172ed6e5c90",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Also i had lemon tea with it"
+      }
+    ],
+    "generated_response": "Here's my response:\n\n\"Arre bhai, lemon tea with paratha toh thoda sa achha hai, lekin kya hua diwana? (Hey buddy, having lemon tea with paratha is alright, but what's going on?) You were supposed to have oats with fruits and nuts, not paratha. Remember, our diet plan said no heavy breakfasts.\n\nAlso, I don't see any veggies in your meal. We discussed this yesterday, remember? Adding some greens to your meals will really help.\n\nAnyway, let's keep it simple for now. Just make sure you drink plenty of water throughout the day and try to add some salad with lunch. And yeah, no more parathas for breakfast, okay?\n\nDaily reminder: Don't forget to walk for at least 30 minutes today! It's a beautiful day outside, go take a stroll in the park and get some fresh air.\"",
+    "ideal_response": "Prefer to maintain a gap of 20-30 mins between Solid foods and fluids to ensure better absorption rate"
+  },
+  {
+    "ticket_id": "84447c63-2773-488c-a799-c1702c200bff",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Lemon water m honey or salt add kr skte h n?"
+      },
+      {
+        "role": "user",
+        "content": "Jeera water or souf water add nh kr skte kya?"
+      },
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a close-up of a bowl of cooked food, likely a type of soup or stew. The dish appears to contain small grains or lentils, along with pieces of vegetables and possibly some spices. The food has a reddish-brown color, indicating it might be seasoned with spices or a tomato-based sauce. A spoon is partially visible in the bowl.) with the following caption Vegetable dalia."
+      }
+    ],
+    "generated_response": "Kya hai? You asked about adding lemon water with honey or salt, jeera water or souf water, and showed me an image of Vegetable dalia.\n\nChalo, let's see... Vegetable dalia looks good, but I hope you added some vegetables like carrots, beans, and spinach to make it nutritious. It seems like you might have missed adding some protein sources like eggs, chicken, or tofu. Jeera water and souf water are great options for hydration, but don't forget to drink plenty of plain water throughout the day.\n\nAb, about your query... you can definitely add a squeeze of lemon with honey or salt to jeera water or souf water for extra flavor. Just remember, use honey or salt in moderation, as they're high in calories.\n\nDaily reminder: Don't forget to take a 30-minute walk outside today and enjoy some fresh air! Also, try drinking at least 8-10 glasses of water throughout the day.",
+    "ideal_response": "You can add honey to lemon water but skip the salt. Jeera water and sauf ka pani is fine, Your vegetable dalia looks good! Keep it up!"
+  },
+  {
+    "ticket_id": "42eed415-aee2-4ced-8772-89c086b779dc",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Night drink"
+      },
+      {
+        "role": "user",
+        "content": "Ajwain"
+      }
+    ],
+    "generated_response": "Khushi ji, abey night drink kya hai? Ajwain ki tarah bhi peene mein fayda hota hai, lekin kya tumne usme shahad ya dudh milaya tha?\n\n(Tumhe milk aur honey zaroor milna chahiye the. Iske alawa, kal raat ke dinner mein koi special tarka tha? Tumhe vegetables aur proteins milne chaiye the.\n\n(Daily Reminder: Abey night drink peene se pehle ek glass pani piya karo. Healthy Tip: Hamesha apni health par dhyan dena aata hai, isliye agar tum night drink peete ho to thoda time lekar sleep karne ki koshish karo.)",
+    "ideal_response": "Great choice! Ajwain water is excellent for digestion. Keep it up!"
+  },
+  {
+    "ticket_id": "05c707a6-aa65-4411-be6a-834af5df2ddd",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a metallic cup filled with a brown liquid, likely tea or coffee, with a metallic spoon inside. The cup is placed on a textured surface, possibly a cloth or towel.) with the following caption Turmeric water."
+      }
+    ],
+    "generated_response": "Kya hua beta? You sent an image of turmeric water with a metallic spoon. I like that you're making turmeric water, but did you remember to add some honey and lemon juice in it? Those are essential for a healthy digestive system.\n\nAccording to your diet chart, this time slot is usually reserved for a glass of warm milk with nuts and seeds. But since you've made turmeric water instead, let's see... You've got the turmeric part right, which is great for reducing inflammation and improving digestion. However, I'm not seeing any signs of honey or lemon juice in your drink.\n\nLet me suggest you add a tablespoon of honey and some fresh lemon juice to your turmeric water next time. That will give it an extra boost of antioxidants and flavor.\n\nDaily reminder beta: Don't forget to stay hydrated today! Drink at least 8-10 glasses of water, and try to avoid sugary drinks like juices or sodas. Your body will thank you!\n\nKeep going, and let me know if there's anything else I can help with!",
+    "ideal_response": "Great choice, the diet plan mentioned popcorn but you are having makahna which are even healthier and a great source of fiber and calcium."
+  }
+]
