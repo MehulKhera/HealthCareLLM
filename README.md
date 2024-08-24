@@ -16,3 +16,7 @@ STEPS TO RUN:
 
 
 1. Just create a virtual environment in VS Code and run the ipynb file. Simple. 
+
+
+BONUS:
+I tried to make it act like your family doctor! See responses in family_doctor.json file.
